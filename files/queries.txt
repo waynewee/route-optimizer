@@ -1,0 +1,10 @@
+dst A B C
+dst A D
+dst A D C
+dst A E B C D
+dst A E D
+rcs C C 3
+rce A C 4
+src A C
+src B B
+rcd C C 30
